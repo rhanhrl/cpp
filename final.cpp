@@ -2,7 +2,7 @@
 using namespace std;
 class baseClass {
 public:
-    virtual void perkenalan() final
+    virtual void perkenalan() //final
     {
         cout<<"Hallo saya function dari class utama";
     
